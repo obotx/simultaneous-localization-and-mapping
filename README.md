@@ -1,5 +1,7 @@
 <p align="center"><img src="./images/pyslam-logo.png" height="160"></p>
 
+# Simultaneous localization and mapping (SLAM) for robotics
+
 # pySLAM v2.10.5
 
 Author: **[Luigi Freda](https://www.luigifreda.com)**
